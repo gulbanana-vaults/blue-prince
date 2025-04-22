@@ -1,3 +1,8 @@
+---
+tags:
+  - bedroom
+---
+[[Clara Epsen]]'s room
 west wing only, from a south-facing door
 
 ![](https://i.imgur.com/SRbNsLF.png)

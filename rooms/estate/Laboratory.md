@@ -1,3 +1,6 @@
+---
+mechanical:
+---
 ![](https://i.imgur.com/sVPC1KZ.png)
 ![](https://i.imgur.com/aQb0m5z.png)
 

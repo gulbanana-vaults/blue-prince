@@ -1,3 +1,7 @@
+---
+tags:
+  - mechanical
+---
 - see uncollected items in opened rooms
 - change keycard settings (quantity, offline mode)
 - blackbridge login

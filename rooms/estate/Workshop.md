@@ -1,3 +1,7 @@
+---
+tags:
+  - mechanical
+---
 
 Carved stone thing:
 

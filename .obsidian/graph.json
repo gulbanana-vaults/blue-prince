@@ -1,0 +1,93 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#green  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#red  ",
+      "color": {
+        "a": 1,
+        "rgb": 15993611
+      }
+    },
+    {
+      "query": "tag:#shop  ",
+      "color": {
+        "a": 1,
+        "rgb": 14732626
+      }
+    },
+    {
+      "query": "tag:#orindian  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#bedroom  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#hallway  ",
+      "color": {
+        "a": 1,
+        "rgb": 15101696
+      }
+    },
+    {
+      "query": "path:rooms -path:rooms/underground  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:envelopes  ",
+      "color": {
+        "a": 1,
+        "rgb": 16760253
+      }
+    },
+    {
+      "query": "path:books  ",
+      "color": {
+        "a": 1,
+        "rgb": 13629394
+      }
+    },
+    {
+      "query": "path:\"dramatis personae\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16501740
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 9.89583333333333,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.5087618855792589,
+  "close": false
+}

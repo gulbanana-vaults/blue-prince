@@ -1,3 +1,7 @@
+---
+tags:
+  - bedroom
+---
 +2 steps
 
 ![](https://i.imgur.com/PDS6uqV.jpeg)

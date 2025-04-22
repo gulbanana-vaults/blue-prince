@@ -1,3 +1,7 @@
+---
+tags:
+  - shop
+---
 sale on day 20 & 21
 * (4) magnifying glass
 * (8) sledge hammer

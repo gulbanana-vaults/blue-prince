@@ -1,3 +1,7 @@
+---
+tags:
+  - hallway
+---
 
 | ![](https://i.imgur.com/B4trXM9.jpeg) |     | ![](https://i.imgur.com/sMJsYeN.jpeg) |
 | ------------------------------------- | --- | ------------------------------------- |

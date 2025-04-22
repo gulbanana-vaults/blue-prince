@@ -1,3 +1,7 @@
+---
+tags:
+  - drafting
+---
 
 strategy guide!
 ![](https://i.imgur.com/l69Rgt6.jpeg)

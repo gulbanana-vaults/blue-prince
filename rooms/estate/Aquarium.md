@@ -1,3 +1,11 @@
+---
+tags:
+  - shop
+  - bedroom
+  - hallway
+  - red
+  - green
+---
 ```
   patio   boudoir  laundry
 bedroom           archives
