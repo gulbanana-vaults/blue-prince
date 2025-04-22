@@ -1,0 +1,26 @@
+* radiation monitor - unlocks all doors if rads spiked by [[Laboratory]]
+* time lock safe: set future unlock date/time (min 1 hour away); remains open 1 hour
+	* days start at around 8 am, and day 1 was november.. 7? 8?
+	* day 5 = november 11
+	
+
+inhabitants
+Jean Ribbon (alias of Mary Jones?!)
+Paul Withers (alias of Philip Williams?)
+maybe manning
+
+
+some history:
+![](https://i.imgur.com/Nmm7CYq.png)
+
+safe contents: a gem (red ruby!) and red envelope VII
+
+terminal emails:
+![](https://i.imgur.com/vVUeZX2.png)
+![](https://i.imgur.com/9FE3pk4.png)
+![](https://i.imgur.com/bNfiwmK.png)
+![](https://i.imgur.com/lWaqeik.png)
+![](https://i.imgur.com/idqfOYE.png)
+![](https://i.imgur.com/zrItame.png)
+![](https://i.imgur.com/r4ori5O.png)
+![](https://i.imgur.com/gfzMv6R.png)
