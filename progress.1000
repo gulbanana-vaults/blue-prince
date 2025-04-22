@@ -1,0 +1,75 @@
+class c : col [gutter=10]
+class r : row [gutter=10]
+
+class goal : object [font-color=blue]
+class lore : object [font-color=red]
+class book: lore
+
+// c {
+//     book anc [label="A New Clue"]
+//     book cob [label="The Curse of Blackbridge"]
+    
+//     lore letters [label="Red Envelopes"]
+//     lore will
+// }
+
+object [fill=white,padding=10,gutter=10,corner-radius=0] {
+    col {
+        row [gutter=10] {
+            c {
+                goal garage [label="Power\nGarage"]
+                goal slever [label="Pull\nSouth/West/East Lever"]
+                goal nlever [label="Pull\nNorth Lever"]
+                
+            }
+
+            c {        
+                goal outer [label="Unlock\nWest Path"]
+                goal antechamber [label="Enter\n Antechamber"]
+                goal r46 [label="Find\nRoom 46"]
+            }
+
+            c { 
+                goal lift [label="Activate\nPrecipice Lift"]
+                
+            }
+
+            c {   
+                goal outer-antechamber [label="Draft Antechamber\nas Outer Room"]
+            }
+        }
+        object [gutter=10] {
+            goal coffers [label="Buy Coffers\nin Gift Shop",col=5] 
+            goal crown [label="Retrieve Crown\nfrom Room 46",col=6]
+            goal outer-trove [label="Draft Treasure Trove\nas Outer Room",row=2,col=5]
+            goal stone [label="Retrieve Stone\nfrom Shrine",row=2,col=6]
+            goal chess [label="Solve\nChess Puzzle",row=3]
+            goal castle [label="Perform\na Castle"]
+            goal tomb [label="Raise\nKing's Tomb"]
+            goal clock [label="Unlock\nTomb Clock"]
+            goal aries [label="Obtain\nKey of Aries"]
+            goal sceptre [label="Retrieve Sceptre\nfrom Treasure Trove"]
+            goal ascend [label="Ascend\nThrone Room"]
+            goal unseal [label="Unseal\nBlue Doors"]
+            goal cipher [label="Solve\n6x3 Cipher",row=4,col=3]            
+        }
+    }
+    
+    line slever -> antechamber -> r46 <- nlever
+
+    // mary's path
+    line r46 -> crown -> ascend
+    line r46 -> coffers -> stone -> ascend
+    line lift -> chess -> castle -> tomb -> clock <- cipher
+    line clock -> aries -> sceptre -> ascend
+    line ascend -> unseal
+
+    // outer room requirements
+    line garage -> outer
+    line outer -> lift
+    line outer -> outer-trove -> sceptre
+    line outer -> stone
+
+    // clues
+    //line cob -> stone
+}

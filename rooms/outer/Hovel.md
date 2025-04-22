@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Denny Revane]]'s room
 
 ![](https://i.imgur.com/mC4XDmc.jpeg)

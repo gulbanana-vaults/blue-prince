@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 location: "[[Drawing Room]]"
 code: "0415"
 author: "[[Herbert S. Sinclair]]"

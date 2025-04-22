@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 mother: [[Mary Matthew Jones]]
 great-uncle: [[Herbert S. Sinclair]]
 father: [[Daniel Jones]]?

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 one of the red in red/blue prince pairs? 
 
 later revolutionary

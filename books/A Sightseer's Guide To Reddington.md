@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![](https://i.imgur.com/zD5NMTG.png)
 ![](https://i.imgur.com/UDVH9uj.jpeg)
 ![](https://i.imgur.com/ZbrB4KM.jpeg)

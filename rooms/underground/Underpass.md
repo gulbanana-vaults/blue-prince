@@ -1,5 +1,10 @@
-gear area overlaps (no step cost) with [[rooms/underground/Reservoir|Reservoir]] and maybe [[Basement]] 
-connects to [[Inner Sanctum]] 
+---
+dg-publish: true
+connections:
+  - "[[Reservoir]]"
+  - "[[Inner Sanctum]]"
+---
+gear area overlaps (no step cost) with reservoir and maybe catacombs/abandoned mine
 
 full map from cog niche:
 ![](https://i.imgur.com/3eJ8mXl.jpeg)

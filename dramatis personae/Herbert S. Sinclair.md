@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 left mansion (conditionally) to [[Simon P. Jones]]
 
 guests: K L, Lord Evanson, M. Lowry + wife, the Oldhams, Lady Clara Epsen (liked the west wing, which was 'drafted' as early as 1983)

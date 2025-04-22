@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 house manager
 
 ![](https://i.imgur.com/8sEc6ie.jpeg)

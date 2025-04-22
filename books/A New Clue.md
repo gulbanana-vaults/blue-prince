@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 author: "[[Mary Matthew Jones|Marion Marigold]]"
 ---
 * published "posthumously", by sundial publishing instead of ruffington red
@@ -17,6 +18,14 @@ author: "[[Mary Matthew Jones|Marion Marigold]]"
 ![](https://i.imgur.com/pd91c4b.jpeg)
 ![](https://i.imgur.com/PBn5awK.png)
 
+## closeups
+![](https://i.imgur.com/tMH9DuN.png)
+![](https://i.imgur.com/JMCnmRS.png)
+![](https://i.imgur.com/efawIgQ.png)
+![](https://i.imgur.com/QHQ2w48.png)
+![](https://i.imgur.com/qIbdRkq.png)
+
+## notes
 Merry = Mary
 Gates = Gates - drawing room, count short gates
 
@@ -25,12 +34,16 @@ suspect is minor (blue) and major (handwritten red)
 ma|jor = ma | name? or just formatting - bo lee, a minor. `LeeB`
 
 "have you seen all the signs" - yes, they read ROUTE 8 | :plane: DEPART(ure) | KEEP LEFT | TO TANNER FORK :left: | :right: | DEAD END (+ diagram: <https://i.imgur.com/XXHc74c.png>) | RECORD | EACH | STOP
+```
+ 8  7  3 10  1 13
+ X  Y  Z  A  B  C
+```
 
 book list:
 
-| Colour | Clue          | Title           | Anagram         | XYZABC |
-| ------ | ------------- | --------------- | --------------- | ------ |
-| red    | page A word X | Tender Cipher   | The Red Prince  |        |
-| green  | page C word A | Lunar Renamed   |                 |        |
-| violet | page B word Y | Uncle Awe       | A New Clue      |        |
-| blue   | page Z word X | Draft the Sixes | The Fixed Stars |        |
+| Colour | Clue          | Title           | Anagram         | XYZABC |         |
+| ------ | ------------- | --------------- | --------------- | ------ | ------- |
+| red    | page A word X | Tender Cipher   | The Red Prince  | 10/8   |         |
+| green  | page C word A | Lunar Renamed   | Realm & Rune    | 13/10  |         |
+| violet | page B word Y | Uncle Awe       | A New Clue      | 1/7    | SUNDIAL |
+| blue   | page Z word X | Draft the Sixes | The Fixed Stars |        |         |

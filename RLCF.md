@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 aka the Children of Black Water
 
 ## Members

@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 author: "[[Mary Matthew Jones|Marion Marigold]]"
 ---
 * written for simon, considered political satire (perhaps unintentionally at first?)

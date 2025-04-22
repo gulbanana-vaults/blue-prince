@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 powers the [[Gymnasium]], [[Darkroom]] or [[Garage]]
 
 ![](https://i.imgur.com/1TyA2Lf.jpeg)

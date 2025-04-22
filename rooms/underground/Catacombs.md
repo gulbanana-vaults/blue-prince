@@ -1,7 +1,9 @@
-connects to [[Tomb]]
-
-unsolved: "Torch Chamber" (more candles)
-
+---
+dg-publish: true
+connections:
+  - "[[Tomb]]"
+  - "[[Abandoned Mine]]"
+---
 annotated map pieces:
 ![](https://i.imgur.com/xXiVNdF.jpeg)
 ![](https://i.imgur.com/9W5Bg3O.jpeg)

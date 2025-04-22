@@ -1,3 +1,11 @@
+---
+dg-publish: true
+---
+```
+yellow yellow red orange
+orange blue green green blue purple
+red purple
+```
 ![](https://i.imgur.com/FLD8boK.png)
 ![](https://i.imgur.com/VF2UaLe.png)
 ![](https://i.imgur.com/L6VewiH.png)

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 network password: SWANSONG
 terminals: [[Security]], [[Laboratory]], [[Shelter]], [[Office]]
 "data transfers from synka are not currently available"

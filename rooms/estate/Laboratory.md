@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 mechanical:
 ---
 ![](https://i.imgur.com/sVPC1KZ.png)

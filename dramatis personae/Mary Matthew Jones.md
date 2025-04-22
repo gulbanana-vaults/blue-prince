@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 a.k.a. Mary Epsen, Mary Matthews, Marion Marigold, Jean Ribbon `RibbJ`
 
 uncle: [[Herbert S. Sinclair]]

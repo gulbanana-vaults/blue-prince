@@ -1,8 +1,7 @@
 ---
+dg-publish: true
 author: "[[Caleb Manning]]"
 ---
-* heavily censored
-
 ![](https://i.imgur.com/troRnR8.jpeg)
 ![](https://i.imgur.com/7KJgbra.jpeg)
 ![](https://i.imgur.com/CdCYk4y.jpeg)

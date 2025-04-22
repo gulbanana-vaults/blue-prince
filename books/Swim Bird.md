@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 author: "[[Mary Matthew Jones|Marion Marigold]]"
 ---
 ![](https://i.imgur.com/gZPExS3.jpeg)

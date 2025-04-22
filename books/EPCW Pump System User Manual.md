@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 * for [[Pump Room]]
 
 ![](https://i.imgur.com/IRHczFF.jpeg)

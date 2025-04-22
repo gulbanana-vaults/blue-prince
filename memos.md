@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 blue memos are true; red memos are lies, unless written by hand
 ![](https://i.imgur.com/sawMdgv.png)
 
@@ -10,3 +13,14 @@ lie: electronic mail can only be accessed via the security terminal
 lie: conference room safe code 9083
 
 ![](https://i.imgur.com/k9hXvAi.png)
+
+## Break Room
+red: h.s. sinclair and anne babbage are the only two on the estate with network admin access
+blue: staff contracts are no longer kept on the highest rank
+
+## Blue Tents
+i looked these up rather than draft every room in rank 8. here are the ones that seem like clues:
+* [[Wine Cellar]]: The numerals below the coat of arms are four different numbers, not one.
+* [[Vault]]: The family core is unlocked only by the sum of its digits.
+* [[Mechanarium]]: On the coat of arms, the first number is one numeral. the rest are each two numerals.
+*

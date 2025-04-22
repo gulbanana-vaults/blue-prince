@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 emails:
 ![](https://i.imgur.com/GZYkcjA.png)
 ![](https://i.imgur.com/JYR3IxY.png)

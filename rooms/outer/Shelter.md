@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 * radiation monitor - unlocks all doors if rads spiked by [[Laboratory]]
 
 [[RLCF]] hid here. some history:

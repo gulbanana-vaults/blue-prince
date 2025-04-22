@@ -1,8 +1,11 @@
+---
+dg-publish: true
+---
 family tree:
 ![](https://i.imgur.com/ThoTOPQ.jpeg)
 
 ```
-    Tomas Sinclair --- Auravel              William Epsen --- Ashlynn 
+    Tomas Sinclair --- Auravei              William Epsen --- Ashlynn 
                     |                                      |
          ----------------------                  ----------------------
          |                    |                  |                    |
