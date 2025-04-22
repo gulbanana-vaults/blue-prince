@@ -1,20 +1,16 @@
 network password: SWANSONG
-terminals: [[Security]], [[Laboratory]], [[Shelter]], [[The Office]]
+terminals: [[Security]], [[Laboratory]], [[Shelter]], [[Office]]
 "data transfers from synka are not currently available"
 
 [[Security]]: view items, configure keycard doors
-[[The Office]]: email
-[[Shelter]]: 
+[[Office]]: email, spread gold, send cheques to servants (haven't done this!)
+[[Shelter]]: measure radiation, open safe
+[[Laboratory]]: perform experiments, measure data
 
-synka is a camera:
-![](https://i.imgur.com/ojQLqvd.jpeg)
-
-microchip??
+??
 ![](https://i.imgur.com/Gi8mxZl.png)
 
 admin keys: `BabbA`, `MoorR`, `ThomK`, `LeeB` (fake!!), `WithC`, `RibbJ`
-
-redguard arrived after aug 27
 
 03-09-87 packet from fierstrom, eraja
 
@@ -32,4 +28,4 @@ lol owned
 ![](https://i.imgur.com/T77fCul.jpeg)
 
 ![](https://i.imgur.com/XXIOuND.png)
-"other children"
+"other children" - of black water, or simon et al?

@@ -1,1 +1,0 @@
-hovel, orchard, schoolhouse, ?
